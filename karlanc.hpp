@@ -1,0 +1,1 @@
+/home/mark/programming/school/2016-2017/september/cStyleStrings/karakterlancok/szoveg-SzoveG/karlanc.hpp
