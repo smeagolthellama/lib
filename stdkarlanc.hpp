@@ -5,7 +5,7 @@
 ///size of a char*
 #define CHAR_STAR_SIZE 256
 
-#define DEBUG
+//#define DEBUG
 
 #include <iostream>
 #include <cstring>
